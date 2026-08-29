@@ -103,14 +103,6 @@ A polished Flutter health-dashboard UI demonstrating responsive layouts, reusabl
   alt="Muthamilselvan GitHub Streak"
 />
 
-<br/><br/>
-
-<img
-  width="90%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muthamilselvan251&theme=github_dark"
-  alt="Muthamilselvan GitHub Activity"
-/>
-
 </div>
 
 ---
