@@ -91,15 +91,19 @@ A polished Flutter health-dashboard UI demonstrating responsive layouts, reusabl
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Muthamilselvan251&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Muthamil Selvan GitHub stats" />
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api?username=Muthamilselvan251&show_icons=true&hide_border=true"
+  alt="Muthamil Selvan GitHub Stats"
+/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=Muthamilselvan251&hide_border=true&theme=transparent" alt="Muthamil Selvan GitHub streak" />
+<img
+  height="170"
+  src="https://streak-stats.demolab.com?user=Muthamilselvan251&hide_border=true"
+  alt="Muthamil Selvan GitHub Streak"
+/>
 
 </div>
-
-> GitHub statistics are activity indicators, not a complete measure of engineering skill.
-
----
 
 ## 🐍 Contribution Activity
 
