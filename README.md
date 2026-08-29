@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Muthamil Selvan
+# Hi 👋, I'm Muthamilselvan
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Flutter+Mobile+App+Developer;Flutter+%7C+Dart+%7C+GetX;Firebase+%7C+REST+APIs+%7C+SQLite;Building+clean+and+responsive+mobile+apps" alt="Typing SVG" />
